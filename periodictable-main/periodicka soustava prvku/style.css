@@ -1,0 +1,19 @@
+.h1 {
+    margin-left: 260px;
+    color: #5314e4;
+}
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 24px
+}
+.invis {
+    border-style: none;
+}
+.hornitlustacara {
+    border-top: 4px black;
+    border-collapse: collapse;
+}
+table {
+    margin: auto;
+}
