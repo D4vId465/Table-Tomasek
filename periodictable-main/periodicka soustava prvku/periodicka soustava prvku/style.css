@@ -1,0 +1,35 @@
+.h1 {
+    margin-left: 760px;
+    color: #5314e4;
+}
+.invis {
+    border-style: none;
+    border-color: white;
+}
+.hornitlustacara {
+    border-top: 4px black;
+    border-collapse: collapse;
+}
+.td {
+    border: 1px black;
+}
+.alkalicke {
+    background-color: pink;
+}
+th, td {
+    border: 1px solid black;
+    font-size: 36px;
+}
+table {
+    margin: auto;
+    border-collapse: collapse;
+}
+.alkalickezeminy {
+    background-color: orange;
+}
+.prechodne {
+    background-color: #cebafc;
+}
+.kovy {
+    background-color: lightblue;
+}
