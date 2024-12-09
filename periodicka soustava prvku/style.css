@@ -4,22 +4,19 @@
 }
 .invis {
     border-style: none;
-    border-color: white;
 }
-.hornitlustacara {
-    border-top: 4px black;
-    border-collapse: collapse;
+.dolnitlustacara {
+    border-bottom: 2px solid black;
 }
-.td {
-    border: 1px black;
+td {
+    border: 1px solid black;
 }
 .alkalicke {
     background-color: pink;
 }
-th, td {
-    border: 1px solid black;
+table {
     font-size: 36px;
-}
+    }
 table {
     margin: auto;
     border-collapse: collapse;
@@ -31,5 +28,26 @@ table {
     background-color: #cebafc;
 }
 .kovy {
-    background-color: lightblue;
+    background-color: rgb(48, 154, 192);
+}
+.polokovy {
+    background-color: aqua;
+}
+.nekovy {
+    background-color: greenyellow;
+}
+.halogeny {
+    background-color: rgb(0, 191, 255);
+}
+.vzacneplyny {
+    background-color: yellow;
+}
+.pravatlustacara {
+    border-right: 2px solid black;
+}
+.mensipismena {
+    font-size: 10px;
+}
+.hornitlustacara {
+    border-top: 2px black;
 }
