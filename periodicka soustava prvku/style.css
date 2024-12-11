@@ -10,12 +10,15 @@
 }
 td {
     border: 1px solid black;
+    text-align: center;
 }
 .alkalicke {
     background-color: pink;
 }
 table {
-    font-size: 36px;
+    font-size: 46px;
+    width: 2cm;
+    height: 2cm;
     }
 table {
     margin: auto;
@@ -46,8 +49,20 @@ table {
     border-right: 2px solid black;
 }
 .mensipismena {
-    font-size: 10px;
+    font-size: 18px;
 }
 .hornitlustacara {
     border-top: 2px solid black;
+}
+.mensicislo {
+    font-size: 21px;
+}
+.levatlustacara {
+    border-left: 2px solid black;
+}
+.tlustecary {
+    border: 2px solid black;
+}
+.d {
+    border-bottom: none;
 }
